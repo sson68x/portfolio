@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Simon Son",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Engineer" ],
       "social": [
         {
           "name": "github",
@@ -29,18 +29,13 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "90"
         },
         {
           "name": "TypeScript",
           "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
-          "name": "JavaScript",
-          "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
@@ -54,8 +49,8 @@
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Python",
+          "class": "devicon-python-plain",
           "level": "65"
         },
         {
