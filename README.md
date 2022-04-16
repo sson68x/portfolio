@@ -1,3 +1,5 @@
-# Modify this portfolio
+# Simon's Portfolio
 
-Make it your own! 
+Hello, my name is Simon Son
+
+I'm a software engineering student based out of Seattle.
